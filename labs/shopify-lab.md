@@ -1,3 +1,9 @@
+---
+layout: default
+title: Shopify Lab – Building a Marketplace
+---
+
+
 # Shopify Lab – Step-by-Step Live Demo Flow  
 
 
